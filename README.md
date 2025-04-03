@@ -1,10 +1,10 @@
 # Dependence-Guided Multi-View Clustering
 
-Here is an implementation for our paper published in ICASSP 2021, entitled "Dependence-Guided Multi-View Clustering".
+This is the official implementation of our paper published in ICASSP (2021), titled "Dependence-Guided Multi-View Clustering".
 
-Run demo.m to reproduce our results, please.
+To reproduce the results in our paper, please run demo.m.
 
-If you use this code, please cite it as follows:
+If you find this code helpful in your research, please kindly cite our work as follows:
 
 ```
 @inproceedings{dong2021dependence,
